@@ -27,8 +27,7 @@ for specific_operation in input().split(','):
 input_data = input()
 data = input_data.split(',')
 for i in range(len(operations)):
-  if operations[i] == "enqueue":
-    queue.enqueue(int(data[i]))
+  i[i]))
   elif operations[i] == "dequeue":
     queue.dequeue()
 queue.sta
